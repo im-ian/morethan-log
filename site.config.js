@@ -1,8 +1,8 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "임대호(",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    name: "임대호",
+    image: "https://avatars.githubusercontent.com/u/38205068?v=4", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "frontend developer",
     bio: "Work-life blance",
     email: "im-ian@naver.com",
@@ -12,13 +12,13 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `임대호`,
+      name: "임대호",
       href: "https://github.com/morethanmin/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "다람주 헌 쳇바퀴에 타고파",
+    title: "다람쥐 헌 쳇바퀴에 타고파",
     description: "람쥐썬더",
   },
 
