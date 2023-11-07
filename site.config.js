@@ -12,8 +12,20 @@ const CONFIG = {
   },
   projects: [
     {
-      name: "임대호",
-      href: "https://github.com/im-ian/morethan-log",
+      name: "react-survey",
+      href: "https://github.com/im-ian/react-survey",
+    },
+    {
+      name: "eslint-config-bs",
+      href: "https://github.com/im-ian/eslint-config-bs",
+    },
+    {
+      name: "knock-knock",
+      href: "https://github.com/im-ian/knock-knock",
+    },
+    {
+      name: "ssu-class-checker",
+      href: "https://github.com/im-ian/ssu-class-checker",
     },
   ],
   // blog setting (required)
